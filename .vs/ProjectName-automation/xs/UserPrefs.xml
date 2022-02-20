@@ -1,14 +1,20 @@
 ﻿<Properties StartupConfiguration="{4817B321-0966-4714-953D-A2A8B7CE5107}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Automation-test/WebBrowser-Tests.cs">
     <Files>
       <File FileName="AutomationService/Calculator.cs" Line="1" Column="1" />
-      <File FileName="Automation-test/UnitTest1.cs" Line="1" Column="1" />
-      <File FileName=".gitignore" Line="2" Column="2" />
+      <File FileName="Automation-test/UnitTest1.cs" Line="14" Column="10" />
+      <File FileName=".gitignore" Line="2" Column="5" />
+      <File FileName="Automation-test/WebBrowser-Tests.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ProjectName-automation" expanded="True" selected="True" />
+          <Node name="ProjectName-automation" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Automation-test" expanded="True">
+              <Node name="WebBrowser-Tests.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
@@ -18,7 +24,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Automation-test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Automation-test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
