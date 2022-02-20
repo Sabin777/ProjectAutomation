@@ -1,0 +1,10 @@
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/bin/Debug/netstandard2.1/AutomationService.deps.json
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/bin/Debug/netstandard2.1/AutomationService.dll
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/bin/Debug/netstandard2.1/AutomationService.pdb
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/obj/Debug/netstandard2.1/AutomationService.csproj.AssemblyReference.cache
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/obj/Debug/netstandard2.1/AutomationService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/obj/Debug/netstandard2.1/AutomationService.AssemblyInfoInputs.cache
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/obj/Debug/netstandard2.1/AutomationService.AssemblyInfo.cs
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/obj/Debug/netstandard2.1/AutomationService.csproj.CoreCompileInputs.cache
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/obj/Debug/netstandard2.1/AutomationService.dll
+/Users/sabinkarki/Projects/ProjectName-automation/AutomationService/obj/Debug/netstandard2.1/AutomationService.pdb
