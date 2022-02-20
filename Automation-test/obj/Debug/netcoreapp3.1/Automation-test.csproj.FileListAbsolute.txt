@@ -95,3 +95,4 @@
 /Users/sabinkarki/Projects/ProjectName-automation/Automation-test/obj/Debug/netcoreapp3.1/Automation-test.dll
 /Users/sabinkarki/Projects/ProjectName-automation/Automation-test/obj/Debug/netcoreapp3.1/Automation-test.pdb
 /Users/sabinkarki/Projects/ProjectName-automation/Automation-test/obj/Debug/netcoreapp3.1/Automation-test.genruntimeconfig.cache
+/Users/sabinkarki/Projects/ProjectName-automation/Automation-test/bin/Debug/netcoreapp3.1/WebDriver.dll
