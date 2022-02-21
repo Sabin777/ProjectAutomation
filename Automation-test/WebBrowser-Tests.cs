@@ -49,6 +49,7 @@ namespace Automation_test
 
             Assert.AreEqual("Dr. Test Provider's Reviews", element);
             driver.Quit();
+            //close
 
         }
     }
