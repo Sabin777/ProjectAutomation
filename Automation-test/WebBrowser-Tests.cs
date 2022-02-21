@@ -37,5 +37,19 @@ namespace Automation_test
             driver.Quit();
 
         }
+
+        [Test]
+        public void VerifyingJENKINS()
+        {
+            driver.Navigate().GoToUrl("https://www.healthgrades.com/physician/dr-sandy-test-provider-xyp88j3?referrerSource=autosuggest");
+
+            var findElements = By.XPath("//h2[@class='title--accented']");
+            var element = driver.FindElement(findElements).Text;
+
+
+            Assert.AreEqual("Dr. Test Provider's Reviews", element);
+            driver.Quit();
+
+        }
     }
 }
